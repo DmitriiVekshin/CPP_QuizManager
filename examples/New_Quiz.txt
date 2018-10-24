@@ -1,0 +1,42 @@
+0) Choose a and c
+a. a
+b. b
+c. c
+d. d
+
+
+1) 10+5=?
+
+2) What is y = f(x) ?
+
+3) x + 12 = 15, x = ?
+a. 3
+b. 4
+c. 1
+
+
+4) What is the capital of Great Britain?
+a. London
+b. Paris
+c. Prague
+d. Berlin
+
+
+5) City in Czech republic?
+a. Prague
+b. Munchen
+c. Plzen
+d. Brno
+e. Wien
+f. Milan
+g. Ostrava!
+
+
+6) 25 / 5 = ?
+
+7) lg(16) = ?
+
+8) Who is a paiter?
+
+9) What is y=f(x)?
+
